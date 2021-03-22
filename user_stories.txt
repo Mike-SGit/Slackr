@@ -1,0 +1,55 @@
+Epic 1:
+As a UNSW student, I want the ability to secure and authorise my Slackr account(s) so that only I can access and edit my information.
+
+Sub Stories:
+As a UNSW student, I want the ability to login into Slackr with an email and password so that my account is unique and accessible only to myself.
+
+As a UNSW student, I want the ability to sign up a new account with an email, password, first name and last name so that I can register securely.
+
+As a UNSW student, I want the ability to reset my password through an email code sent to my inbox so that if I was to forget my password, I could re-access my account.
+
+As a UNSW student, I want the ability to logout from my account so that I can securely exit Slackr or login to different account.
+
+Epic 2:
+As a UNSW student, I want the ability to connect with specific members of the server in separate channels so that I am only communicated by users applicable to my interests. 
+
+Sub Stories:
+As a UNSW student, I want the ability to view a list of all the channels I am currently joined in so that I can easily navigate between their chatrooms.
+
+As a UNSW student, I want the ability to browse all the public channels that are available on the server so that I can search for and join new channels.
+
+As a UNSW student, I want the ability to create a new channel with a unique name and set it to public or private so that I can separate different topics and conference with specific members only.
+
+As a UNSW student, I want the ability to view a channel's name, owners, members and its messages so that I can interact with its properties and its members.
+
+As a UNSW student, I want the ability to invite a specific person to a channel so that I can include or exclude other members of the server.
+
+As a UNSW student, I want the ability to leave a channel so that I am withdrawn from all of its activities and messages.
+
+As a UNSW student, I want the ability to promote other members to an 'owner' if I am also an 'owner' so that some members possess unique permissions to moderate the channel.
+
+Epic 3:
+As a UNSW student, I want the ability to communicate with other server members so that I can contact and collaborate with others online conveniently.
+
+Sub Stories:
+As a UNSW student, I want the ability to send messages and edit them after so that I can effectively communicate with channel members and other server members.
+
+As a UNSW student, I want the ability to pin and unpin messages so that I can prioritise and display important information to channel members.
+
+As a UNSW student, I want the ability to 'react' and 'unreact' to messages so that I can engage with other channel members without the use of direct messages.
+
+As a UNSW student, I want the ability to delete messages so that I can remove clutter, mistakes and inappropriate messages from channels.
+
+As a UNSW student, I want the ability to schedule messages to be sent at a later date and time so that I can organise exactly when members are notified and can view my message.
+
+As a UNSW student, I want the ability to view a member's profile containing their first name, last name and profile picture so that I can identify, learn more about them and further contact them.
+
+As a UNSW student, I want the ability to view and edit my own profile's handle, first name, last name, email address and profile picture so that I can personalise my account and others can identify myself.
+
+As a UNSW student, I want the ability to upload a new profile picture so that I can update my contact details.
+
+As a UNSW student, I want the ability to search for messages in channels so that I can find and reply to that message. 
+
+As a UNSW administrator, I want the ability to send a 'standup' command to collect all messages in the server for fifteen minutes so that I view a summary of all user messages sent in that interval for later analysis.
+
+As a UNSW administrator, I want the ability to promote other server members to an 'administrator' which possess server wide unique permissions so that they can moderate the server.
